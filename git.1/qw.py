@@ -1,3 +1,3 @@
 a = int(input())
-a=a&3
+a=a&0
 print(a)
