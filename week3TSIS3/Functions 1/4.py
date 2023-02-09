@@ -5,3 +5,4 @@ def print(n):
         return True
 n = int(input())
 l = list()
+for i in range(n):
