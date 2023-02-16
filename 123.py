@@ -1,19 +1,10 @@
-def myfunc(r):
-    new = []
-    for i in range(len(r)):
-        x = False
-        for j in range(len(r)):
-            if r[i] == r[j]:
-                if i != j:
-                    x = True
-        if x != 1:
-            new.append(r[i])
-    return new
-n = int(input()) ; l = list()
-for i in range(n):
-    g = int(input())
-    l.append(g)
-print(myfunc(l))
+class Parent1:
+  def __init__(mysillyobject, color1, number1):
+    mysillyobject.color1 = color1
+    mysillyobject.number1 = number1
 
+  def myfunc(abc):
+    print("Hello my name is " + abc.color1)
 
-
+p1 = Parent1("Yellow", 36)
+p1.myfunc()
