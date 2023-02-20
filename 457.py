@@ -34,18 +34,21 @@ class baby(Parent1, Parent2):
         self.color3 = color1 + color2
     def print(self):
         print(self.color3,self.number3)
-    def setword3(self):
-        self.word3 = self.word1 + self.word2
+
     def getword3(self):
+        self.word3 = self.word1 + self.word2
         print(self.word3)
     def printInfo3(self):
         print(self.color3,self.number3)
-ret3 = baby("black","white",6,8)
-ret3.printInfo3()
-ret3.setword1("ryt")
-ret3.setword2("jui")
-ret3.setword3()
+
+res1 = input()
+res2 = input()
+num1 = int(input())
+num2 = int(input())
+
+ret3 = baby(res1 , res2 , num1 , num2)
+ret3.print()
+ret3.setword1("we ")
+ret3.setword2("happy")
+
 ret3.getword3()
-
-
-
