@@ -1,6 +1,6 @@
 import json
 
-with open("../week4TSIS4/Json/qqqq.json", "r") as read_file:
+with open("qqqq.json", "r") as read_file:
     data = json.load(read_file)
     # print(data)
     print("""Interface Status================================================================================""")

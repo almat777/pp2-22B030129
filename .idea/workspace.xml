@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dcefe0c1-d385-4590-9355-5db98c7258fa" name="Changes" comment="zoro">
-      <change afterPath="$PROJECT_DIR$/qqqq.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/red.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/145.py" beforeDir="false" afterPath="$PROJECT_DIR$/145.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dre.py" beforeDir="false" afterPath="$PROJECT_DIR$/dre.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiments/145.py" beforeDir="false" afterPath="$PROJECT_DIR$/week4TSIS4/Json/145.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +61,7 @@
       <recent name="C:\Users\almat\PycharmProjects\sanji\python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.python">
+  <component name="RunManager">
     <configuration name="1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sanji" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,7 +137,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dre.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\almat\PycharmProjects\sanji\Experiments\dre.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -420,7 +416,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677066332708</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="zoro">
+      <created>1677147403954</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1677147403954</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
