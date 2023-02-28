@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dcefe0c1-d385-4590-9355-5db98c7258fa" name="Changes" comment="zoro">
-      <change afterPath="$PROJECT_DIR$/week4TSIS4/Date/w3school.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4TSIS4/Json/w3school.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4TSIS4/Math/w3school.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -443,7 +440,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677148500862</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="zoro">
+      <created>1677168855615</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1677168855615</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
