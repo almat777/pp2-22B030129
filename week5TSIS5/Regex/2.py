@@ -1,5 +1,5 @@
 import re
 
 text = input()
-r = re.search("ab*",text)
+r = re.findall("ab{2,3}",text)
 print(r)
