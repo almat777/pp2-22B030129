@@ -2,5 +2,5 @@ import re
 
 text = input()
 
-r = re.search("ab*", text)
+r = re.findall(".*ab.*", text)
 print(r)
