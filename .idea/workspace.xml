@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcefe0c1-d385-4590-9355-5db98c7258fa" name="Changes" comment="zoro">
-      <change afterPath="$PROJECT_DIR$/week8TSIS8/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8TSIS8/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week8TSIS8/racer/racer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week7TSIS7/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/week7TSIS7/2.py" afterDir="false" />
-    </list>
+    <list default="true" id="dcefe0c1-d385-4590-9355-5db98c7258fa" name="Changes" comment="zoro" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -190,20 +184,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674659227841</updated>
-    </task>
-    <task id="LOCAL-00001" summary="true">
-      <created>1675235669706</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1675235669706</updated>
-    </task>
-    <task id="LOCAL-00002" summary="zen">
-      <created>1675235862988</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1675235862988</updated>
     </task>
     <task id="LOCAL-00003" summary="ze">
       <created>1675236101037</created>
@@ -527,7 +507,28 @@
       <option name="project" value="LOCAL" />
       <updated>1679593057617</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="zoro">
+      <created>1680796537228</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1680796537228</updated>
+    </task>
+    <task id="LOCAL-00050" summary="zoro">
+      <created>1680796629095</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1680796629095</updated>
+    </task>
+    <task id="LOCAL-00051" summary="zoro">
+      <created>1680796745303</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1680796745303</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
