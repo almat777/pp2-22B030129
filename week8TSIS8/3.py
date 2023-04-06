@@ -5,17 +5,16 @@ pygame.init()
 # размер окна
 WIDTH, HEIGHT = 800, 600
 FPS = 60
-#игровое поле
+
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 clock = pygame.time.Clock()
 finished = False
-#определения цвета
 
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 
 
-#функции для рисования
+
 def drawRect(color, pos, width, height):
     pygame.draw.rect(screen, color, (pos[0], pos[1], width, height), 4)
 
@@ -63,7 +62,7 @@ while not finished:
             end_pos = pos
             rect_x = abs(start_pos[0] - end_pos[0])
             rect_y = abs(start_pos[1] - end_pos[1])
-            #менять фигуры при нажатии пробела
+
             if mode == 0:
                 drawRect(color, start_pos, rect_x, rect_y)
             elif mode == 1:
@@ -77,7 +76,7 @@ while not finished:
                 mode %= 3
             if event.key == pygame.K_BACKSPACE:
                 screen.fill(WHITE)
-        #изменить размет ластика
+
         if event.type == pygame.KEYDOWN :
             if event.key == pygame.K_UP :
                 RAD+=10

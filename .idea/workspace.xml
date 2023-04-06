@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcefe0c1-d385-4590-9355-5db98c7258fa" name="Changes" comment="zoro" />
+    <list default="true" id="dcefe0c1-d385-4590-9355-5db98c7258fa" name="Changes" comment="zoro">
+      <change beforePath="$PROJECT_DIR$/week8TSIS8/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/week8TSIS8/3.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -184,13 +186,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674659227841</updated>
-    </task>
-    <task id="LOCAL-00003" summary="ze">
-      <created>1675236101037</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1675236101037</updated>
     </task>
     <task id="LOCAL-00004" summary="ze">
       <created>1675236278551</created>
@@ -528,7 +523,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680796745303</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="zoro">
+      <created>1680797042702</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1680797042702</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
